@@ -28,7 +28,7 @@ The project covers the full BI workflow: source design, data modeling, relations
 ![Northstar Semantic Model](screenshots/semantic-model.png)
 
 ### Mobile Executive Overview
-![Mobile Executive Overview](screenshots/mobile-executive-overview.png)
+![Mobile Executive Overview](screenshots/mobile-executive-overview.jpg)
 
 ## Business Questions
 
@@ -134,7 +134,7 @@ northstar-health-revenue-cycle-bi/
     ├── patient-access-operations.png
     ├── financial-performance.png
     ├── semantic-model.png
-    └── mobile-executive-overview.png
+    └── mobile-executive-overview.jpg
 ```
 
 ## Data Disclaimer
